@@ -4,6 +4,8 @@
 
 **数据官网（每日核验更新）→ [tokenmost.com](https://tokenmost.com)**
 
+**精编清单（awesome 风格）→ [awesome-free-ai-tokens-cn](https://github.com/KJAI123/awesome-free-ai-tokens-cn)**
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## What is this / 这是什么
