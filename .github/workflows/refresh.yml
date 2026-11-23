@@ -1,0 +1,46 @@
+name: Refresh TokenMost dataset
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/refresh.yml']
+  schedule:
+    - cron: '15 0,12 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: tokenmost-dataset
+  cancel-in-progress: false
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: KJAI123/tokenmost
+          ref: main
+          path: _upstream
+          persist-credentials: false
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /deals.json
+            /llms.txt
+            /llms-full.txt
+            /rss.xml
+            /sitemap.xml
+            /verified.xml
+      - name: Refresh the public files
+        run: |
+          set -eu
+          for file in deals.json llms.txt llms-full.txt rss.xml sitemap.xml verified.xml; do
+            test -s "_upstream/$file"
+            cp "_upstream/$file" "$file"
+            git add -- "$file"
+          done
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m "Sync TokenMost data from $(git -C _upstream rev-parse --short HEAD)"
+            git push
+          fi
