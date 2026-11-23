@@ -5,7 +5,7 @@
     <link>https://tokenmost.com/</link>
     <description>五层来源 AI token 折扣码与免费额度情报，每日人工核验</description>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 GMT</lastBuildDate>
     <item>
       <title>智谱 BigModel：有效邀请双方各得 2,000 万 GLM-4.5-Air Tokens，被邀人另获 2,500 万新客礼包</title>
       <link>https://docs.bigmodel.cn/cn/update/promotion</link>
@@ -315,11 +315,11 @@
       <description>长期低价 · 规则：工作日 22:00 至次日 08:00、周末和节假日全天为波谷（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>阿里云百炼：阿里云百炼首次开通后，符合条件的北京地域模型通常各送 100 万 Tokens</title>
+      <title>阿里云百炼：百炼北京新户 56 款模型各 100 万 Token，含 26 款文本和 30 款专用模型</title>
       <link>https://help.aliyun.com/zh/model-studio/new-free-quota</link>
       <guid isPermaLink="false">deep-bailian-newuser-quota</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-      <description>注册赠送 · 规则：须先实名，额度一般 90 天有效；可开「免费额度用完即停」避免超额计费（优惠以官方页面为准）</description>
+      <description>注册赠送 · 规则：实名新户，主子账号共享。逐模型使用，语音、视觉、向量等专用额仅适用对应模型。有效期以各行说明及控制台为准，建议开启「免费额度用完即停」。（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>阿里云百炼：限时免费模型：decision-model-preview（北京/新加坡）、deepseek-r1-distill-qw</title>
@@ -558,13 +558,6 @@
       <guid isPermaLink="false">deep-xai-grok-code-status</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
       <description>避雷 · 规则：底册「xAI赠送停发」结论维持；独立API羊毛预期删除，改挂X Subscription口径（优惠以官方页面为准）</description>
-    </item>
-    <item>
-      <title>讯飞星辰 MaaS：【二次攻坚·确认在线】1024 活动：注册+个人实名认证（秒过、免人脸免身份证上传）→ 首页「星火X2.6的活动」→ 创</title>
-      <link>https://maas.xfyun.cn</link>
-      <guid isPermaLink="false">deep-xunfei-1024-10yi-r2</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-      <description>限时活动 · 规则：⚠️ 领取弹窗上方有勾选框：勾选=免费额度用完自动转按量计费，务必取消勾选再确认；实测消耗极快（作者不到一天用完）；有效期未见官方原文（知乎口径31天，中）；Base URL https://maas-api.cn-huabei-1.xf-yun.com/v2/chat/completions，Key 形如 ak-xxx；可接 workbuddy（AI 自行配置自定义模型） · 截止 2026-11-24T00:00:00+08:00（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>智谱 BigModel：GLM Coding Plan 仅限订阅人使用，禁止共享、倒卖和中转</title>
@@ -1615,6 +1608,62 @@
       <guid isPermaLink="false">scaleway-generative-welcome</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
       <description>注册赠送 · 规则：免费档按组织跨项目分摊；超过 100 万按量计费。未证实会按月重置，首次计一次。（优惠以官方页面为准）</description>
+    </item>
+    <item>
+      <title>IBM watsonx.ai：Lite 免费档基础模型推理每月 30 万 Token</title>
+      <link>https://www.ibm.com/products/watsonx-ai/pricing</link>
+      <guid isPermaLink="false">ibm-watsonx-lite</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <description>长期免费 · 规则：每个 Lite 计划限 2 次推理请求/秒，工具算力和文档额度另计。（优惠以官方页面为准）</description>
+    </item>
+    <item>
+      <title>Free.ai：验证邮箱后，自托管聊天每天最多 3 万 Token</title>
+      <link>https://free.ai/developer/</link>
+      <guid isPermaLink="false">freeai-selfhosted-chat</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <description>长期免费 · 规则：网页和 API 共池，UTC 零点重置。仅按自托管文本的实际 Token 计，免费 API 每月限 1000 次请求。（优惠以官方页面为准）</description>
+    </item>
+    <item>
+      <title>Clean APIs：免费档聊天模型共用每月 50 万 Token</title>
+      <link>https://www.cleanapis.com/pricing</link>
+      <guid isPermaLink="false">cleanapis-free-chat</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <description>长期免费 · 规则：无需绑卡，每分钟最多 60 次请求。（优惠以官方页面为准）</description>
+    </item>
+    <item>
+      <title>Experiential Labs：验卡后，核心模型每天共享 100 万输入输出 Token</title>
+      <link>https://www.experientiallabs.ai/pricing</link>
+      <guid isPermaLink="false">experiential-core-free</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <description>长期免费 · 规则：需可退还的 1 美元验卡，UTC 零点重置。每分钟最多 10 次请求或 25 万 Token。（优惠以官方页面为准）</description>
+    </item>
+    <item>
+      <title>DreamPrompting：托管 API 每个账号滚动 24 小时最多 50 万 Token</title>
+      <link>https://dreamprompting.com/api-docs?lang=en</link>
+      <guid isPermaLink="false">dreamprompting-free</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <description>长期免费 · 规则：每 24 小时最多 5000 次请求。多把 Key 共池，上游拥堵会影响实际用量。（优惠以官方页面为准）</description>
+    </item>
+    <item>
+      <title>Regolo.ai：新户试用 30 天，每天 100 万额度 Token</title>
+      <link>https://regolo.ai/pricing/</link>
+      <guid isPermaLink="false">regolo-core-trial</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <description>注册赠送 · 规则：免绑卡。按 1 倍模型 gpt-oss-120b 折合 30 天 3000 万原始 Token，其他倍率依所选模型而变。每账号试用一次。（优惠以官方页面为准）</description>
+    </item>
+    <item>
+      <title>讯飞星辰 MaaS：讯飞星火 X2.6 注册礼 10 亿 Token，每账号按一份计</title>
+      <link>https://www.xfyun.cn/activities/promotion</link>
+      <guid isPermaLink="false">xfyun-spark-x26-nov17</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <description>限时活动 · 规则：11/17 开始，11/24 官网仍列「注册即享」10 亿。先在领取页核对资格、库存与用完后的计费设置，结束时间未公布。（优惠以官方页面为准）</description>
+    </item>
+    <item>
+      <title>OpenAI：API 数据共享组织每日免费 Token，按组织档位与模型组计算</title>
+      <link>https://help.openai.com/en/articles/10306912-sharing-feedback-evaluation-and-fine-tuning-data-and-api-inputs-and-outputs-with-openai</link>
+      <guid isPermaLink="false">openai-api-data-sharing-tokens</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+      <description>长期免费 · 规则：仅限符合资格且有正余额的组织。所有者须自愿共享 API 输入与输出，两个模型组各自共池，每天 00:00 UTC 重置。跨过限额的请求可能整笔收费。（优惠以官方页面为准）</description>
     </item>
   </channel>
 </rss>
