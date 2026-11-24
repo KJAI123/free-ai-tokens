@@ -5,13 +5,41 @@
     <link>https://tokenmost.com/</link>
     <description>五层来源 AI token 折扣码与免费额度情报，每日人工核验</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 24 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 00:00:00 GMT</lastBuildDate>
     <item>
-      <title>智谱 BigModel：有效邀请双方各得 2,000 万 GLM-4.5-Air Tokens，被邀人另获 2,500 万新客礼包</title>
-      <link>https://docs.bigmodel.cn/cn/update/promotion</link>
+      <title>cheapllm.shop：cheapllm.shop Beta 免费用 DeepSeek V4.1 Flash 1017，无固定速率或 Token</title>
+      <link>https://cheapllm.shop/signup</link>
+      <guid isPermaLink="false">cheapllm-beta-free</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <description>限时活动 · 规则：注册取 Key，免绑卡。忙时排队，30 秒后可能 503。Beta 结束日未知。期后每账号每滚动小时至少 5,000 输入＋1,000 输出 Tokens。（优惠以官方页面为准）</description>
+    </item>
+    <item>
+      <title>CCode：CCode Free 每月 10 美元共享额度 · 6 款模型</title>
+      <link>https://app.ccode.si/signup?plan=free</link>
+      <guid isPermaLink="false">ccode-free-monthly</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <description>长期免费 · 规则：绑 GitHub 免绑卡，限 CCode 应用。每 5 小时 $5、每周 $10，与月额共用。DeepSeek V4.1 Flash 官网估约 2.31 万步。（优惠以官方页面为准）</description>
+    </item>
+    <item>
+      <title>BlockRun：BlockRun 实时目录 9 款免费模型 · 无需 Key 或钱包</title>
+      <link>https://blockrun.ai/free</link>
+      <guid isPermaLink="false">blockrun-free-models</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <description>免费模型 · 规则：无需注册、Key 或绑卡。免费模型按 IP 限速，拥堵或上游降级会影响可用性。实时免费名单目前没有 DeepSeek。（优惠以官方页面为准）</description>
+    </item>
+    <item>
+      <title>QuWork：QuWork 新用户注册得 1,000 积分 · 每日签到 100 积分</title>
+      <link>https://qurwork.com/</link>
+      <guid isPermaLink="false">quwork-free-points</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <description>长期免费 · 规则：从官网下载 macOS 或 Windows 客户端。注册后签到。通过端内邀请入口邀请新用户，双方各得 1,000 积分。（优惠以官方页面为准）</description>
+    </item>
+    <item>
+      <title>智谱 BigModel：智谱 BigModel 官方邀请页显示：新用户 2,000 万 Tokens 体验包</title>
+      <link>https://www.bigmodel.cn/invite?icode=eUl1wdEIVwRcyrZiWuHpLZmwcr074zMJTpgMb8zZZvg%3D</link>
       <guid isPermaLink="false">zhipu-signup</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <description>邀请奖励 · 规则：经专属链接邀请新用户完成注册及实名认证。邀请方每月最多计 10 位新用户。（优惠以官方页面为准）</description>
+      <description>邀请奖励 · 规则：11 月 25 日核见邀请页展示。经分享链接打开官方注册页查看，适用模型、实名要求、有效期和实际到账待复核。（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>DeepSeek：DeepSeek 官方高峰价：Flash ¥2/8，V4-Pro ¥9/27（每百万输入/输出）</title>
@@ -28,11 +56,11 @@
       <description>长期低价 · 规则：北京时间工作日 9:00–12:00、14:00–18:00 为高峰，法定节假日按空闲（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>Kimi 开放平台：Kimi API 新用户实名后领15元券，自发放起3个月有效</title>
+      <title>Kimi 开放平台：Kimi API 新用户实名领 15 元券，财务文档列 K3 和 K3.1 Pro 普通版可用</title>
       <link>https://platform.kimi.com</link>
       <guid isPermaLink="false">kimi-voucher</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-      <description>注册赠送 · 规则：限国内手机号新注册用户，完成实名认证后发放；自发放起3个月过期，优先于充值余额抵扣。官方明确不可用于Kimi K3，其他目标模型需核对控制台资格。（优惠以官方页面为准）</description>
+      <description>注册赠送 · 规则：限国内手机号。帮助中心列发放后 3 个月有效。Highspeed 除外。官方对 K3 及扣费顺序的说明有分歧，请查控制台费用明细。（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>文心千帆：首次开通送 17 个模型各 100 万 tokens（ERNIE-4.5-Turbo/X1、DeepSeek-R1/V3</title>
@@ -112,14 +140,14 @@
       <description>注册赠送 · 规则：完成实名认证后到活动中心领取认证专享券；邀请券须满足推荐官活动条件，本行只计算认证券一次。 · 截止 2026-12-31（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>硅基流动：「推荐官」：本人实名认证领 16 元全平台通用券</title>
+      <title>硅基流动：「推荐官」计划（至 2026-12-31）：本人实名认证后在活动中心手动领 1 张 16 元全平台通用代金券</title>
       <link>https://www.siliconflow.cn/developer-talk/od7wj9rr23p95uhihmhrombp</link>
       <guid isPermaLink="false">siliconflow-referral</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
-      <description>限时活动 · 截止 2026-12-31（优惠以官方页面为准）</description>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <description>限时活动 · 规则：认证券：完成实名认证 → 活动中心 → 认证专享礼 → 手动领取，每个身份 1 张，重复认证不发新券。邀请券：先点「成为推荐官」取得身份，好友完成注册且实名后 1–5 分钟自动到账。邀请券取决于他人行为，不计入常规额度。本条不记金额：认证券 16 元只在 siliconflow-signup 计一次。 · 截止 2026-12-31（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>OpenRouter：OpenRouter 当前有 12 个 :free 模型，共用免费调用池</title>
+      <title>OpenRouter：OpenRouter 当前有 11 个 :free 模型，共用免费调用池</title>
       <link>https://openrouter.ai/models?max_price=0</link>
       <guid isPermaLink="false">openrouter-free</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
@@ -756,11 +784,11 @@
       <description>长期低价 · 规则：按量计费无月费；部分模型有免费试用额度（以控制台为准）（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>阶跃星辰：新用户最高 75 天免费（99 元 Flash Plus 套餐）：注册即得 30 天+登录 +15+首调 +15+邀 3</title>
+      <title>阶跃星辰：Step Plan 限时免费体验（官方已发关闭预告）：规则条文为登录得 15 天、完成首次 API 调用再得 15 天</title>
       <link>https://www.stepfun.com</link>
       <guid isPermaLink="false">stepfun-75d</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
-      <description>限时活动 · 规则：注册→客户端按提示做任务，天数自动累加；邀 3 人需新用户（优惠以官方页面为准）</description>
+      <description>限时活动 · 规则：新用户=当前无订阅中套餐；已订阅用户登录与首调各顺延 15 天。官方通知原句为「我们将关闭新增免费体验领取通道」，属关闭预告，未写生效时间，当前实际领取状态未知。邀请奖励只见于页面代码默认值，不作实证。活动起止时间未在静态页面公布。免费套餐需完成实名认证；Step 5 Preview 高峰时段按 2 倍扣减 Credit（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>Qoder：Qoder Community Boost 第 4 轮：12,288 Credits 免费领（IDE/CLI 输入 /c</title>
@@ -1477,11 +1505,11 @@
       <description>长期免费 · 规则：仅限 Free Tier 模型，按模型限流，超限返回 429。免费档不支持 BYOK。出现 customer_verification_required 时，团队须添加有效支付方式才能使用免费额度。购买 AI Gateway Credits 后转为付费档，月度免费额度停止。（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>Atlassian Rovo Dev：Rovo Dev Free：每个已开通的 Jira 站点，每位用户每月 350 credits。</title>
+      <title>Atlassian Rovo Dev：Rovo Dev Free 每人每站每月 350 积分</title>
       <link>https://support.atlassian.com/rovo/docs/use-rovo-dev-cli/</link>
       <guid isPermaLink="false">atlassian-rovo-dev-free</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
-      <description>长期免费 · 规则：需加入已启用Rovo Dev Free的Jira付费站点；月额度用完暂停，下周期恢复。（优惠以官方页面为准）</description>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate>
+      <description>长期免费 · 规则：需加入已启用 Rovo Dev Free 的付费 Jira 站点。积分用完即暂停，下一计费周期重置。（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>Lightning AI Studio：免费账户可同时运行 1 个基础 CPU Studio，官方定价页标为 Free、内存 16 GB。</title>

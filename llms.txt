@@ -20,7 +20,7 @@
 - [讯飞首月额度参考（10 亿）](https://tokenmost.com/platform/讯飞.html): 讯飞免费 token 额度大全：8 条信源（3 条已验证），Token 数量以官方页为准。附适用条件、逐条核验日期与官方入口。
 - [智谱 BigModel额度规则与来源](https://tokenmost.com/platform/智谱-bigmodel.html): 已核验 · BigModel 定价表列出 8 款免费模型，覆盖文本、视觉、图像与视频生成。查看对应来源和核验日期。
 - [Kimi额度规则与来源](https://tokenmost.com/platform/kimi月之暗面.html): 已核验 · Kimi 文件内容抽取/存储接口限时免费，截止未公布。查看对应来源和核验日期。
-- [阿里云额度规则与来源](https://tokenmost.com/platform/阿里云.html): 已核验 · 阿里云百炼模型按地区、模型、输入和输出分别定价。查看对应来源和核验日期。
+- [阿里云额度规则与来源](https://tokenmost.com/platform/阿里云.html): 待复核 · 魔搭 API-Inference 当前列出 38 个模型，日调用上限以账号页面为准。查看对应来源和核验日期。
 - [SCNet额度规则与来源](https://tokenmost.com/platform/scnet.html): 已核验 · 国家超算互联网 Token Plan 基础版活动价 ¥30/月，含 60,000 Credits。查看对应来源和核验日期。
 - [Anthropic额度规则与来源](https://tokenmost.com/platform/anthropic.html): 已核验 · Claude Code 与 Claude Web 共享订阅用量，Pro 和 Max 有五小时和周限额。查看对应来源和核验日期。
 - [ZCode额度规则与来源](https://tokenmost.com/platform/zcode.html): 已核验 · GLM Coding Plan 体验卡每张 2,000 积分，支持 GLM-5.3 和 GLM-5.3-Flash。查看对应来源和核验日期。
@@ -29,19 +29,19 @@
 - [Google额度规则与来源](https://tokenmost.com/platform/google.html): 待复核 · Gemini API 有指定模型免费档。查看对应来源和核验日期。
 - [小米 MiMo额度规则与来源](https://tokenmost.com/platform/小米-mimo.html): 待复核 · 小米 MiMo 中国大陆新客首次实名领 ¥5 API 赠金，40 天有效。查看对应来源和核验日期。
 - [百度额度规则与来源](https://tokenmost.com/platform/百度.html): 待复核 · 首次开通送 17 个模型各 100 万 tokens（ERNIE-4.5-Turbo/X1、DeepSeek-R1/V3.1、Qwen3-235B、
-- [硅基流动额度规则与来源](https://tokenmost.com/platform/硅基流动.html): 已核验 · 硅基流动模型目录中的免费模型按零价调用。查看对应来源和核验日期。
+- [硅基流动额度规则与来源](https://tokenmost.com/platform/硅基流动.html): 已核验 · 「推荐官」计划（至 2026-12-31）：本人实名认证后在活动中心手动领 1 张 16 元全平台通用代金券；邀好友注册且实名，双方各得 16 元券
 - [GitHub额度规则与来源](https://tokenmost.com/platform/github.html): 已核验 · Copilot 学生免费（含 AI 额度）+ Azure $100/12 个月（年年可续，含 Azure OpenAI）+ Microsoft 36
 - [字节跳动额度规则与来源](https://tokenmost.com/platform/字节跳动.html): 已核验 · 火山方舟 Coding Plan 提供 Lite 和 Pro 套餐，支持多个编程工具。查看对应来源和核验日期。
 - [Trae 国内版额度规则与来源](https://tokenmost.com/platform/trae-国内版.html): 已核验 · TRAE 国内付费档 Lite/Pro/Pro+/Ultra 标价 ¥49/99/239/699 每月。查看对应来源和核验日期。
 - [xAI额度规则与来源](https://tokenmost.com/platform/xai.html): 待复核 · Grok Code 现状：API注册赠送维持停发（未见复出新礼）；免费/低价用法已迁移至 X Subscription 池（Ultra $200 含
 - [运营商云首月额度参考（50 万）](https://tokenmost.com/platform/运营商云.html): 运营商云免费 token 额度大全：3 条信源（1 条已验证），50 万 tokens；首月 ≈ 50 万 Token 参考。附适用条件、逐条核验日期与官方入口
 - [初创额度申请指南（3 项）](https://tokenmost.com/platform/初创额度.html): 收录 3 项申请制权益，附官方资格、额度和申请入口。
-- [七牛云首月额度参考（7 亿）](https://tokenmost.com/platform/七牛云.html): 七牛云免费 token 额度大全：3 条信源（3 条已验证），1 亿 tokens/天；首月 ≈ 7 亿 Token 参考。附适用条件、逐条核验日期与官方入口。
+- [七牛云首月额度参考（6 亿）](https://tokenmost.com/platform/七牛云.html): 七牛云免费 token 额度大全：3 条信源（3 条已验证），1 亿 tokens/天；首月 ≈ 6 亿 Token 参考。附适用条件、逐条核验日期与官方入口。
 - [Command Code额度规则与来源](https://tokenmost.com/platform/command-code.html): 已核验 · Command Code GOAT：$10/月=**最高 $100 credits**（官方 Up to 口径：Ling 3.1 Flash / D
 - [智谱 AutoClaw首月额度参考（5000 万）](https://tokenmost.com/platform/智谱-autoclaw.html): 智谱 AutoClaw免费 token 额度大全：3 条信源（2 条已验证），额度以官方页为准。附适用条件、逐条核验日期与官方入口。
 - [MiniMax 开放平台额度规则与来源](https://tokenmost.com/platform/minimax-开放平台.html): 已核验 · MiniMax H3-Image 两款模型：最终出图≥1660万像素，整次请求费限时5折（付费）。查看对应来源和核验日期。
 - [恒源云额度规则与来源](https://tokenmost.com/platform/恒源云.html): 已核验 · 恒源云邀请：邀请人20元/人，被邀新用户10元券（指定GPU机器）。查看对应来源和核验日期。
-- [OpenRouter额度规则与来源](https://tokenmost.com/platform/openrouter.html): 已核验 · OpenRouter 当前有 12 个 :free 模型，共用免费调用池。查看对应来源和核验日期。
+- [OpenRouter额度规则与来源](https://tokenmost.com/platform/openrouter.html): 已核验 · OpenRouter 当前有 11 个 :free 模型，共用免费调用池。查看对应来源和核验日期。
 - [OhMyGPT额度规则与来源](https://tokenmost.com/platform/ohmygpt.html): 待复核 · 官方推荐计划：好友双方各得 $20 额度；另有 GLM-4.7-Flash 等零星免费模型。查看对应来源和核验日期。
 - [商汤额度规则与来源](https://tokenmost.com/platform/商汤.html): 待复核 · 商汤日日新 Token Plan：Free 公测开放，含 Flash Lite 与 U1 Fast。查看对应来源和核验日期。
 - [潞晨云额度规则与来源](https://tokenmost.com/platform/潞晨云.html): 已核验 · 潞晨云首充满 ¥10 送 ¥10 券，体验分享认证可领 ¥50 券。查看对应来源和核验日期。
@@ -54,7 +54,11 @@
 - [OpenDesign额度规则与来源](https://tokenmost.com/platform/opendesign.html): 待复核 · OpenDesign Go：首月 $8，续费 $10/月，Coding Plan 月度用量最高 $220。查看对应来源和核验日期。
 - [Rime额度规则与来源](https://tokenmost.com/platform/rime.html): 已核验 · Rime 每月含 $50 语音模型用量，免费额度适用于 Rime 模型。。查看对应来源和核验日期。
 - [蚂蚁百灵首月额度参考（1714 万）](https://tokenmost.com/platform/蚂蚁百灵.html): 蚂蚁百灵免费 token 额度大全：2 条信源（2 条已验证），¥10/月；首月 ≈ 571 万 Token 参考。附适用条件、逐条核验日期与官方入口。
-- [Dify 自部署额度规则与来源](https://tokenmost.com/platform/dify-自部署.html): 已核验 · Dify Cloud Sandbox 免费体验含 200 消息积分。查看对应来源和核验日期。
+- [cheapllm.shop额度规则与来源](https://tokenmost.com/platform/cheapllm.shop.html): 已核验 · cheapllm.shop Beta 免费用 DeepSeek V4.1 Flash 1017，无固定速率或 Token 上限。查看对应来源和核验日
+- [CCode额度规则与来源](https://tokenmost.com/platform/ccode.html): 已核验 · CCode Free 每月 10 美元共享额度 · 6 款模型。查看对应来源和核验日期。
+- [BlockRun额度规则与来源](https://tokenmost.com/platform/blockrun.html): 已核验 · BlockRun 实时目录 9 款免费模型 · 无需 Key 或钱包。查看对应来源和核验日期。
+- [QuWork额度规则与来源](https://tokenmost.com/platform/quwork.html): 已核验 · QuWork 新用户注册得 1,000 积分 · 每日签到 100 积分。查看对应来源和核验日期。
+- [Dify 自部署额度规则与来源](https://tokenmost.com/platform/dify-自部署.html): 待复核 · Dify Cloud Sandbox 免费体验含 200 消息积分。查看对应来源和核验日期。
 - [AutoDL额度规则与来源](https://tokenmost.com/platform/autodl.html): 已核验 · AutoDL注册送30天会员；学生认证享1年会员价资格。查看对应来源和核验日期。
 - [共绩算力申请指南（1 项）](https://tokenmost.com/platform/共绩算力.html): 收录 1 项申请制权益，附官方资格、额度和申请入口。
 - [NVIDIA NIM额度规则与来源](https://tokenmost.com/platform/nvidia-nim.html): 待复核 · NVIDIA API Catalog 免费原型推理：按账号速率限流；Nemotron Lightning 普通与流式已实测。查看对应来源和核验日期。
@@ -82,7 +86,7 @@
 - [Novita额度规则与来源](https://tokenmost.com/platform/novita.html): 待复核 · Novita AI 云 free-to-start：130+ 模型（DeepSeek/Qwen/GLM 系）注册即用，新用户赠送起步额度（数额以控制
 - [Fireworks AI额度规则与来源](https://tokenmost.com/platform/fireworks-ai.html): 待复核 · Fireworks AI 高速推理云：$1 起步纯按量（无月费门槛），托管 DeepSeek/Qwen/Llama 系，生产级吞吐。查看对应来源和核
 - [DeepInfra额度规则与来源](https://tokenmost.com/platform/deepinfra.html): 待复核 · DeepInfra 纯按量推理聚合：开源模型低价托管（0 月费无门槛），OpenAI 兼容 API。查看对应来源和核验日期。
-- [阶跃星辰额度规则与来源](https://tokenmost.com/platform/阶跃星辰.html): 待复核 · 新用户最高 75 天免费（99 元 Flash Plus 套餐）：注册即得 30 天+登录 +15+首调 +15+邀 3 人各 +15，可调 Ste
+- [阶跃星辰额度规则与来源](https://tokenmost.com/platform/阶跃星辰.html): 待复核 · Step Plan 限时免费体验（官方已发关闭预告）：规则条文为登录得 15 天、完成首次 API 调用再得 15 天；未给生效时间，当前实际能否领
 - [火山方舟额度规则与来源](https://tokenmost.com/platform/火山方舟.html): 待复核 · ⚠️ kimi-k2.7-code 已于 10-28 14:00 下线；kimi-latest 别名仍指旧模型——用别名的需手动改代码，否则静默走旧
 - [Codex额度规则与来源](https://tokenmost.com/platform/codex.html): 待复核 · OpenAI Codex：ChatGPT Plus/Pro 订阅内含用量；API 走按量计费——无独立免费层。查看对应来源和核验日期。
 - [AI 浏览器额度规则与来源](https://tokenmost.com/platform/ai-浏览器.html): 待复核 · Perplexity Comet AI 浏览器全面免费开放（原 Max 订阅 $200/月专属→全量免费）；邀请好友计划：好友得 1 个月 Pro，
@@ -111,7 +115,7 @@
 - [腾讯 WorkBuddy额度规则与来源](https://tokenmost.com/platform/腾讯-workbuddy.html): 待复核 · WorkBuddy 国内版邀请活动，奖励金额待核实。查看对应来源和核验日期。
 - [Perplexity额度规则与来源](https://tokenmost.com/platform/perplexity.html): 待复核 · Perplexity Education Pro 学生教育者专享：**\$10/月（Pro \$20 的 5 折）**，部分认证学生享**首月免费*
 - [AMD Token Factory额度规则与来源](https://tokenmost.com/platform/amd-token-factory.html): 待复核 · AMD AI 开发者平台 Token Factory（Dify 官方认证插件/Cherry Studio 可直连）：开源模型 API **每日免费额
-- [FiimeOPC额度规则与来源](https://tokenmost.com/platform/fiimeopc.html): 已核验 · 注册拆「算力红包」：总盘 1 万亿 Token 拆 1 万份，单个最高 1 亿；每日社区任务最多再领 5000 万（发帖 1000 万+发项目 20
+- [FiimeOPC额度规则与来源](https://tokenmost.com/platform/fiimeopc.html): 待复核 · 注册拆「算力红包」：总盘 1 万亿 Token 拆 1 万份，单个最高 1 亿；每日社区任务最多再领 5000 万（发帖 1000 万+发项目 20
 - [Microsoft Azure额度规则与来源](https://tokenmost.com/platform/microsoft-azure.html): 已核验 · 新用户 $200 赠金（30 天）+ 20+ 项服务 12 个月免费（VM/PostgreSQL/容器注册表等）+ 65+ 项永久免费服务（DevO
 - [Vultr额度规则与来源](https://tokenmost.com/platform/vultr.html): 已核验 · 新用户最高 $250 赠金（约 30 天）；起步实例 1 核 512MB / 2TB 流量，全球 30+ 机房按需开机。查看对应来源和核验日期。
 - [AgentScope额度规则与来源](https://tokenmost.com/platform/agentscope.html): 已核验 · Beta 期免费：注册即得独立云端 Agent 工作空间（QwenPaw 浏览器直用）+ 首次成功部署送 200 Credits；Memory/Sk
@@ -148,7 +152,7 @@
 - [Cloudflare Workers AI额度规则与来源](https://tokenmost.com/platform/cloudflare-workers-ai.html): 已核验 · Workers AI 每天 10,000 Neurons 免费，按不同模型的计算消耗扣减。。查看对应来源和核验日期。
 - [Hugging Face Inference额度规则与来源](https://tokenmost.com/platform/hugging-face-inference.html): 历史记录 · Hugging Face 免费账户已无每月推理赠金；PRO 及团队每席月含 $2 计算额度。查看对应来源和核验日期。
 - [Vercel AI Gateway首月额度参考（1905 万）](https://tokenmost.com/platform/vercel-ai-gateway.html): Vercel AI Gateway免费 token 额度大全：1 条信源（1 条已验证），$5/月；首月 ≈ 1905 万 Token 参考。附适用条件、逐条核
-- [Atlassian Rovo Dev额度规则与来源](https://tokenmost.com/platform/atlassian-rovo-dev.html): 待复核 · Rovo Dev Free：每个已开通的 Jira 站点，每位用户每月 350 credits。。查看对应来源和核验日期。
+- [Atlassian Rovo Dev额度规则与来源](https://tokenmost.com/platform/atlassian-rovo-dev.html): Rovo Dev Free 每人每站每月 350 积分。需加入已启用 Rovo Dev Free 的付费 Jira 站点。积分用完即暂停，下一计费周期重置。在
 - [Lightning AI Studio额度规则与来源](https://tokenmost.com/platform/lightning-ai-studio.html): 已核验 · 免费账户可同时运行 1 个基础 CPU Studio，官方定价页标为 Free、内存 16 GB。。查看对应来源和核验日期。
 - [Google Antigravity CLI额度规则与来源](https://tokenmost.com/platform/google-antigravity-cli.html): 已核验 · Google Antigravity CLI提供0美元/月免费档，模型资格与限流看套餐。查看对应来源和核验日期。
 - [Electron Hub额度规则与来源](https://tokenmost.com/platform/electron-hub.html): 待复核 · Electron Hub 免费档每周 $0.25 额度，免绑卡；另有看广告获取的免费模型请求奖励。查看对应来源和核验日期。
@@ -169,7 +173,7 @@
 - [Coding Plan 选购攻略：谁的积分最值钱，谁在挖坑](https://tokenmost.com/guides/coding-plan-guide.html): 核实于 2026-10-27（官网/文档直核）｜ 2026-11-11 增补全网大对比总表（◆=搜索口径待 TK 复核，其余官方直核）｜ 全文只列各厂商官方公布
 - [海外免费层生存指南 2026：Gemini / Groq / Cerebras / Mistral / Cohere / OpenRouter](https://tokenmost.com/guides/free-tier-survival.html): 2026-11-23 更新 Groq、Mistral、Cohere 和 OpenRouter；其他章节核实于 2026-10-27。
 - [FreeLLMAPI 实测：本地免费路由与 NVIDIA 接入](https://tokenmost.com/guides/freellmapi.html): 2026-11-21：三家提供方共五次真实调用通过：OVH、Kilo 与使用本机 Key 的 NVIDIA。
-- [Kimi 攻略：15 元 API 券、会员档位、旗舰模型充值路径](https://tokenmost.com/guides/kimi-guide.html): 核实于 2026-10-27 ｜ 素材以 Kimi 官方帮助文档直核为主 ｜ 难度：★☆☆
+- [Kimi API 15 元券能用 K3 吗？领取条件与 Highspeed 限制](https://tokenmost.com/guides/kimi-guide.html): 国内新用户完成认证后可领 15 元 API 券，适用于 Kimi K3 和 K3.1 Pro 普通版。K3.1 Pro Highspeed 不适用。
 - [SCNet 国家超算互联网全攻略：tokens、卡时、OpenClaw 三线薅法](https://tokenmost.com/guides/scnet-guide.html): 核实于 2026-10-27 ｜ 难度：★★☆（要实名）｜ 国家队平台，价格屠夫：综合约 1 元/百万 tokens、OpenClaw 续购 0.1 元/百万
 - [硅基流动 SiliconFlow 全攻略：注册礼、推荐官、免费池](https://tokenmost.com/guides/siliconflow-guide.html): 核实于 2026-10-27 ｜ 难度：★☆☆ ｜ 定位：国内最大模型聚合 API，唯一「邀请上不封顶」的厂商
 - [火山方舟「每日 500 万」攻略：协作奖励计划怎么开、红线在哪](https://tokenmost.com/guides/volc-daily.html): 核实于 2026-10-27 ｜ 难度：★★☆（有隐私条款，先看红线再决定）｜ 唯一的「按天给额度」型大厂羊毛
