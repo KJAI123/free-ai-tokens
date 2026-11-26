@@ -5,7 +5,7 @@
     <link>https://tokenmost.com/</link>
     <description>五层来源 AI token 折扣码与免费额度情报，每日人工核验</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 25 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:00:00 GMT</lastBuildDate>
     <item>
       <title>cheapllm.shop：cheapllm.shop Beta 免费用 DeepSeek V4.1 Flash 1017，无固定速率或 Token</title>
       <link>https://cheapllm.shop/signup</link>
@@ -630,11 +630,11 @@
       <description>长期活动 · 规则：11/19 10:00（UTC+8）起仅限国际版 Pro 试用期或 Lite、Pro、Pro+、Ultra 个人付费订阅。每天 10:00 起端内手领 100 Credits，每笔有效 30 天。（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>书生·端砚（上海AI实验室）：端砚 Token Plan 可调用模型 API，月赠墨点数量待账户确认</title>
-      <link>https://discovery.intern-ai.org.cn</link>
+      <title>书生·端砚（上海AI实验室）：书生·端砚科研模型：补充手机号后，每月免费额度标示最高价值 5 亿 Tokens</title>
+      <link>https://discovery.intern-ai.org.cn/token-plan/home?tabIndex=0</link>
       <guid isPermaLink="false">deep-intern-inkpoint</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
-      <description>情报 · 规则：登录后查看「科研模型」与「我的墨点包」确认赠额、到期日及限额；多个 API Key 共享余额与 RPM/TPM。OpenAI Base URL 为 discovery-api.intern-ai.org.cn/v1，Anthropic 使用同域根路径。（优惠以官方页面为准）</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <description>情报 · 规则：登录科研模型 → API Key → 去补充手机号 → 查看墨点余额和明细。各 API Key 共享账户墨点与限额。实际可用 Token 随模型、输入输出及缓存情况变化。（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>Together AI：⚠️ Together AI 免费试用 credits 已取消（官方文档口径：no free trials，最低 $5 </title>
@@ -784,7 +784,7 @@
       <description>长期低价 · 规则：按量计费无月费；部分模型有免费试用额度（以控制台为准）（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>阶跃星辰：Step Plan 限时免费体验（官方已发关闭预告）：规则条文为登录得 15 天、完成首次 API 调用再得 15 天</title>
+      <title>阶跃星辰：Step Plan 已公告将关闭新增免费体验领取通道。公告未给生效时间，账户当前能否领取待核</title>
       <link>https://www.stepfun.com</link>
       <guid isPermaLink="false">stepfun-75d</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
@@ -924,11 +924,11 @@
       <description>限时活动 · 规则：初创/新用户计划，申请制细节待官网核（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>商汤小浣熊：新用户积分三渠道可叠加：网页版登录送 3000 + 桌面客户端登录再送 3000 + 手机 App 再送 3000（最高</title>
+      <title>商汤小浣熊：小浣熊新人首次注册、首登桌面端和移动端，各领 3000 积分，合计 9000</title>
       <link>https://xiaohuanxiong.com/events/refer?code=a59b9f5d4890401ca96d63fbdc6d802c</link>
       <guid isPermaLink="false">deep-sensenova-xiaohuanxiong</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-      <description>折扣码 · 规则：领取：网页版注册→桌面客户端登录→App 登录三端各得 3000；每日签到 300/天自动到账；积分按功能消耗（普通对话/数据分析/PPT 生成/文档批处理额度不同）；积分制不折 token（优惠以官方页面为准）</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <description>折扣码 · 规则：新人三项可叠加；受邀注册后 7 日内有效活跃 3 天再领 1000，免付费最高 1 万；30 日内首次有效个人付费再加 2000。个人免费版每日 300 积分另计。（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>小米 MiMo Code：小米 MiMo Code 终端 AI 编程助手：MIT 协议开源免费（基于 OpenCode 二次开发，个人/企业可免费</title>
@@ -1071,11 +1071,11 @@
       <description>长期免费 · 规则：免费档单机最长连跑 480 分钟（长任务走 nohup/tmux 或 suspend/resume）；空闲 30 分钟自动暂停（暂停免费只算存储）；exec 单条 10 分钟上限；单次上传 10MiB（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>Oracle Cloud：Oracle 云永免费层：2 台 AMD 微型机（1C/1G）+ Ampere A1 ARM **纯免费号 2 核 12</title>
+      <title>Oracle Cloud：Oracle 免费 AMD 微型机最多 2 台，每台 1/8 OCPU、1 GB 内存。A1 月额度两份官文不同。另有 </title>
       <link>https://www.oracle.com/cloud/free/</link>
       <guid isPermaLink="false">oracle-cloud-always-free</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-      <description>长期免费 · 规则：注册须实体双币卡验证（拒虚拟卡/预付卡，$1 预授权可退）；主区域选定永久不可改，免费资源只能在主区开；⚠️ 纯免费号闲置回收：7 天内 CPU/网络 95 分位 &lt;20% 判闲置停机（PAYG 账号豁免）；升级 PAYG 后立即建 $1 预算提醒防误扣费（优惠以官方页面为准）</description>
+      <description>长期免费 · 规则：注册须实体双币卡验证（拒虚拟卡/预付卡，$1 预授权可退）；主区域选定永久不可改，免费资源只能在主区开。闲置实例可能被回收。7 天内 CPU 使用率第 95 百分位与网络使用率均低于 20%，A1 还须同时满足内存使用率低于 20%。（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>AWS：AWS 免费层：EC2 t3.micro 750 小时/月（跑满一台整月）×12 个月+RDS/CDN/lambda 等</title>
