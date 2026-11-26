@@ -5,7 +5,14 @@
     <link>https://tokenmost.com/</link>
     <description>五层来源 AI token 折扣码与免费额度情报，每日人工核验</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>DeepSeek：DeepSeek 语音 API 限时五折：TTS ¥1.50/万计费字符，ASR ¥0.39/小时音频</title>
+      <link>https://api-docs.deepseek.com/zh-cn/quick_start/pricing/#speech-pricing</link>
+      <guid isPermaLink="false">deepseek-speech-discount</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <description>付费折扣 · 规则：使用官方 API Key 按量扣费。TTS 原价 ¥3/万计费字符，汉字算 2 个，其余算 1 个。ASR 原价 ¥0.78/小时音频，按秒计费，不足 1 秒按 1 秒。 · 截止 截止未公布 / End date unannounced（优惠以官方页面为准）</description>
+    </item>
     <item>
       <title>cheapllm.shop：cheapllm.shop Beta 免费用 DeepSeek V4.1 Flash 1017，无固定速率或 Token</title>
       <link>https://cheapllm.shop/signup</link>
@@ -630,7 +637,7 @@
       <description>长期活动 · 规则：11/19 10:00（UTC+8）起仅限国际版 Pro 试用期或 Lite、Pro、Pro+、Ultra 个人付费订阅。每天 10:00 起端内手领 100 Credits，每笔有效 30 天。（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>书生·端砚（上海AI实验室）：书生·端砚科研模型：补充手机号后，每月免费额度标示最高价值 5 亿 Tokens</title>
+      <title>书生·端砚（上海AI实验室）：书生·端砚：绑手机号后，实测一个账号的每月免费基础包到账 10,000 墨点</title>
       <link>https://discovery.intern-ai.org.cn/token-plan/home?tabIndex=0</link>
       <guid isPermaLink="false">deep-intern-inkpoint</guid>
       <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
@@ -1071,25 +1078,25 @@
       <description>长期免费 · 规则：免费档单机最长连跑 480 分钟（长任务走 nohup/tmux 或 suspend/resume）；空闲 30 分钟自动暂停（暂停免费只算存储）；exec 单条 10 分钟上限；单次上传 10MiB（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>Oracle Cloud：Oracle 免费 AMD 微型机最多 2 台，每台 1/8 OCPU、1 GB 内存。A1 月额度两份官文不同。另有 </title>
+      <title>Oracle Cloud：Oracle A1 免费租户每月 1,500 OCPU 小时、9,000 GB 小时（约 2 OCPU、12 GB）</title>
       <link>https://www.oracle.com/cloud/free/</link>
       <guid isPermaLink="false">oracle-cloud-always-free</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-      <description>长期免费 · 规则：注册须实体双币卡验证（拒虚拟卡/预付卡，$1 预授权可退）；主区域选定永久不可改，免费资源只能在主区开。闲置实例可能被回收。7 天内 CPU 使用率第 95 百分位与网络使用率均低于 20%，A1 还须同时满足内存使用率低于 20%。（优惠以官方页面为准）</description>
+      <description>长期免费 · 规则：付费租户：价表列每月 3,000 OCPU 小时、18,000 GB 小时，裸金属、VM 与容器共享。两组上限不可叠加。试用资格待核。免费资源限主区。（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>AWS：AWS 免费层：EC2 t3.micro 750 小时/月（跑满一台整月）×12 个月+RDS/CDN/lambda 等</title>
+      <title>AWS：AWS 新客开户得 $100 抵扣额，完成指定活动另得最多 $100，可抵扣符合条件的 EC2 用量</title>
       <link>https://aws.amazon.com/free/</link>
       <guid isPermaLink="false">aws-freetier-ec2</guid>
       <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <description>长期免费 · 规则：750 小时/月仅首 12 个月（新账号）；超额计费需绑卡——设好预算告警（Billing→Budgets）防扣费（优惠以官方页面为准）</description>
+      <description>长期免费 · 规则：适用 2025-07-15 起符合资格的 AWS 新客户。免费计划 6 个月或抵扣额用尽，以先到为准。新制不适用于中国区域及 AWS GovCloud（美国）。（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>Google Cloud：Google Cloud 免费层：e2-micro VM 永久免费（美国区，30G 磁盘）+ 30G 出网/月+新用户 </title>
+      <title>Google Cloud：Google Cloud Compute Engine 免费层：e2-micro 月度工时、30 GB·月标准持久盘、1</title>
       <link>https://cloud.google.com/free/</link>
       <guid isPermaLink="false">gcp-freetier-vm</guid>
-      <pubDate>Sat, 07 Nov 2026 00:00:00 GMT</pubDate>
-      <description>长期免费 · 规则：e2-micro 限美国指定区域（oregon/iowa/s. carolina）；外网 IP 算出网流量（30G/月内免费）；需绑卡但永久免费项不扣费（优惠以官方页面为准）</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <description>长期免费 · 规则：非抢占式 e2-micro 限 us-west1、us-central1、us-east1，三个区的免费工时合计以当月总时数为上限。出网从北美发出，目的地排除中国和澳大利亚。（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>GitHub Codespaces：GitHub Codespaces 云开发环境：个人免费 120 core-hours/月+15G 存储/月（2 核机=</title>
@@ -1351,11 +1358,11 @@
       <description>长期活动 · 规则：体验版每日登录自动发放；Mac 端_supported（Apple 芯片）（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>MiniMax Code：MiniMax Code 每天签到领 **400 积分**（平台支持的所有文本和多模态模型通用）</title>
-      <link>https://www.minimaxi.com</link>
+      <title>MiniMax Code：MiniMax Code 连续签到 7 天共领 4,000 积分</title>
+      <link>https://code.minimax.cn/features/ai-game-builder</link>
       <guid isPermaLink="false">minimax-code-daily-400</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <description>长期活动 · 规则：MiniMax 客户端「用量」页每日签到；公众号 2026-11-20 文章估：7 天一轮、第 4/7 天各 1000 积分、每周约 4000——1000 是否替代当日 400、断签规则待官方确认（优惠以官方页面为准）</description>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+      <description>长期活动 · 规则：在 MiniMax Code 客户端「用量」页每日签到。第 4、7 天的当日合计各为 1,000 积分，整周共 4,000 积分。（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>WPS 灵犀：WPS 灵犀签到领 **100 智点，第 7 天起每天 200**（灵犀专业版体验版专家 Pro/Max 模式，灵犀按任</title>

@@ -1,5 +1,11 @@
 # tokenmost.com — 全量情报（Markdown 版）
 
+## DeepSeek｜付费折扣
+- 内容：DeepSeek 语音 API 限时五折：TTS ¥1.50/万计费字符，ASR ¥0.39/小时音频
+- 规则：使用官方 API Key 按量扣费。TTS 原价 ¥3/万计费字符，汉字算 2 个，其余算 1 个。ASR 原价 ¥0.78/小时音频，按秒计费，不足 1 秒按 1 秒。
+- 链接：https://api-docs.deepseek.com/zh-cn/quick_start/pricing/#speech-pricing
+- 状态：已验证（核验时间 2026-11-26T14:39:18Z）
+
 ## cheapllm.shop｜限时活动
 - 内容：cheapllm.shop Beta 免费用 DeepSeek V4.1 Flash 1017，无固定速率或 Token 上限
 - 规则：注册取 Key，免绑卡。忙时排队，30 秒后可能 503。Beta 结束日未知。期后每账号每滚动小时至少 5,000 输入＋1,000 输出 Tokens。
@@ -234,7 +240,7 @@
 - 内容：Copilot Free：每月 2,000 次代码补全，Copilot Chat 使用每月 AI Credits 额度并采用自动模型选择。
 - 规则：适用个人免费账户；聊天按 AI Credits 用量计量，不以固定聊天次数承诺。
 - 链接：https://docs.github.com/en/copilot/get-started/plans-for-github-copilot
-- 状态：已验证（核验时间 2026-11-19T17:59:43Z）
+- 状态：待复核（核验时间 2026-11-19T17:59:43Z）
 
 ## 302.AI｜price_low
 - 内容：0 月费纯按量计费聚合（400+ 模型），充多少用多少，不设最低消费
@@ -256,7 +262,7 @@
 - 内容：Cohere 试用密钥每月最多 1,000 次 API 调用
 - 规则：仅用于评估 Key。分钟限速按模型和端点区分。生产 Key 独立计费，部分新 Chat 模型在生产 Key 下仍有月限。
 - 链接：https://docs.cohere.com/docs/rate-limits
-- 状态：已验证（核验时间 2026-11-25T05:48:51Z）
+- 状态：待复核（核验时间 2026-11-25T05:48:51Z）
 
 ## Kimi 开放平台｜price_low
 - 内容：Kimi K3 系列重复请求前缀自动走缓存计费
@@ -529,10 +535,10 @@
 - 状态：待复核（核验时间 2026-11-19T16:15:17Z）
 
 ## 书生·端砚（上海AI实验室）｜情报
-- 内容：书生·端砚科研模型：补充手机号后，每月免费额度标示最高价值 5 亿 Tokens
+- 内容：书生·端砚：绑手机号后，实测一个账号的每月免费基础包到账 10,000 墨点
 - 规则：登录科研模型 → API Key → 去补充手机号 → 查看墨点余额和明细。各 API Key 共享账户墨点与限额。实际可用 Token 随模型、输入输出及缓存情况变化。
 - 链接：https://discovery.intern-ai.org.cn/token-plan/home?tabIndex=0
-- 状态：已验证（核验时间 2026-11-26T04:14:10Z）
+- 状态：已验证（核验时间 2026-11-26T09:06:08Z）
 
 ## Together AI｜warning
 - 内容：⚠️ Together AI 免费试用 credits 已取消（官方文档口径：no free trials，最低 $5 起充）；此前免费模型（BAAI 等开源系）报 out of credits——底册「Together $100 取消」进一步坐实为免费层全面收缩
@@ -908,22 +914,22 @@
 - 状态：待复核（核验时间 2026-11-06T00:00:00Z）
 
 ## Oracle Cloud｜长期免费
-- 内容：Oracle 免费 AMD 微型机最多 2 台，每台 1/8 OCPU、1 GB 内存。A1 月额度两份官文不同。另有 200 GB 块存储和每月 10 TB 出站流量
-- 规则：注册须实体双币卡验证（拒虚拟卡/预付卡，$1 预授权可退）；主区域选定永久不可改，免费资源只能在主区开。闲置实例可能被回收。7 天内 CPU 使用率第 95 百分位与网络使用率均低于 20%，A1 还须同时满足内存使用率低于 20%。
+- 内容：Oracle A1 免费租户每月 1,500 OCPU 小时、9,000 GB 小时（约 2 OCPU、12 GB）
+- 规则：付费租户：价表列每月 3,000 OCPU 小时、18,000 GB 小时，裸金属、VM 与容器共享。两组上限不可叠加。试用资格待核。免费资源限主区。
 - 链接：https://www.oracle.com/cloud/free/
 - 状态：待复核（核验时间 2026-11-10T16:46:21Z）
 
 ## AWS｜长期免费
-- 内容：AWS 免费层：EC2 t3.micro 750 小时/月（跑满一台整月）×12 个月+RDS/CDN/lambda 等几十项免费额度；另有 Always Free 长期项（Lambda 100 万次/月等）
-- 规则：750 小时/月仅首 12 个月（新账号）；超额计费需绑卡——设好预算告警（Billing→Budgets）防扣费
+- 内容：AWS 新客开户得 $100 抵扣额，完成指定活动另得最多 $100，可抵扣符合条件的 EC2 用量
+- 规则：适用 2025-07-15 起符合资格的 AWS 新客户。免费计划 6 个月或抵扣额用尽，以先到为准。新制不适用于中国区域及 AWS GovCloud（美国）。
 - 链接：https://aws.amazon.com/free/
 - 状态：待复核（核验时间 2026-11-07T00:00:00Z）
 
 ## Google Cloud｜长期免费
-- 内容：Google Cloud 免费层：e2-micro VM 永久免费（美国区，30G 磁盘）+ 30G 出网/月+新用户 $300/90 天试用金全服务可用
-- 规则：e2-micro 限美国指定区域（oregon/iowa/s. carolina）；外网 IP 算出网流量（30G/月内免费）；需绑卡但永久免费项不扣费
+- 内容：Google Cloud Compute Engine 免费层：e2-micro 月度工时、30 GB·月标准持久盘、1 GB/月合格出网
+- 规则：非抢占式 e2-micro 限 us-west1、us-central1、us-east1，三个区的免费工时合计以当月总时数为上限。出网从北美发出，目的地排除中国和澳大利亚。
 - 链接：https://cloud.google.com/free/
-- 状态：待复核（核验时间 2026-11-07T00:00:00Z）
+- 状态：已验证（核验时间 2026-11-27T04:36:53+08:00）
 
 ## GitHub Codespaces｜长期免费
 - 内容：GitHub Codespaces 云开发环境：个人免费 120 core-hours/月+15G 存储/月（2 核机=60 小时/月，4 核机=30 小时/月），浏览器即开即用
@@ -1055,7 +1061,7 @@
 - 内容：AutoClaw 新用户桌面端填邀请码，注册最高得 4,800 积分
 - 规则：新用户在 AutoClaw 桌面端登录时填写邀请码。符合条件的月卡或加油包购买双方可获 8% 或 12% 积分奖励，购买返积分可累积。
 - 链接：https://autoglm.zhipuai.cn/misc/autoclaw-invite?activity_id=autoclaw_fission&channel=fission&source_location=credits_page&target_app=autoclaw&target_app_version=2.5.3&os=mac&IC=7WHSTDYA
-- 状态：已验证（核验时间 2026-11-24T02:31:57Z）
+- 状态：待复核（核验时间 2026-11-24T02:31:57Z）
 
 ## AgentRouter｜注册赠送
 - 内容：注册送 **$100** + 首次签到 $25（首日到手 $125，经邀请链接注册再 +$50 → 首日最高 **$175**）；此后每日签到 +$25（退出重登即算一次签到）——可跑 GPT-6 代模型（gpt-5.6-sol / gpt-6-astra / gpt-6.1-sol）
@@ -1103,7 +1109,7 @@
 - 内容：魔搭 × AMD 联合开发者激励计划（登记制·长期有效·0 元）：免费领 **100 小时 AMD Instinct MI300 GPU**（**192GB 显存**，可跑 70B/120B 大模型）——23 核 CPU + 200GB 内存，Ubuntu 22.04 + ROCm 7.2.3 + PyTorch 2.12 预装
 - 规则：入口：魔搭「我的 Notebook」顶部横幅 → AMD 官网 developer.amd.com.cn 魔搭账号一键授权 → 完善资料（工作单位可填「个人开发者」）→ 审核通过**自动充入魔搭账户**（AMD 页无领取按钮）；首次启动须绑实名阿里云账号；单次开机约 8 小时上限（长任务加 checkpoint）；⚠️ 只有 /mnt/workspace 目录持久化，其余重启清空；高峰期启动失败不扣时长
 - 链接：https://modelscope.cn/events/247
-- 状态：已验证（核验时间 2026-11-11T17:06:34Z）
+- 状态：待复核（核验时间 2026-11-11T17:06:34Z）
 
 ## Command Code｜套餐订阅
 - 内容：Go 入门档：$1/月=**$10 credits**（含优惠最高 ~$15 用量）——GLM-5.2 / Tencent Hy3 / Qwen 系列 / DeepSeek V4.1 Flash 各 $10 独立额度 + 18+ 开源模型，约 9K 请求；积分零加价滚存不过期
@@ -1148,10 +1154,10 @@
 - 状态：已验证（核验时间 2026-11-16T10:07:36Z）
 
 ## MiniMax Code｜长期活动
-- 内容：MiniMax Code 每天签到领 **400 积分**（平台支持的所有文本和多模态模型通用）
-- 规则：MiniMax 客户端「用量」页每日签到；公众号 2026-11-20 文章估：7 天一轮、第 4/7 天各 1000 积分、每周约 4000——1000 是否替代当日 400、断签规则待官方确认
-- 链接：https://www.minimaxi.com
-- 状态：待复核（核验时间 2026-11-16T10:07:36Z）
+- 内容：MiniMax Code 连续签到 7 天共领 4,000 积分
+- 规则：在 MiniMax Code 客户端「用量」页每日签到。第 4、7 天的当日合计各为 1,000 积分，整周共 4,000 积分。
+- 链接：https://code.minimax.cn/features/ai-game-builder
+- 状态：已验证（核验时间 2026-11-26T12:04:11Z）
 
 ## WPS 灵犀｜长期活动
 - 内容：WPS 灵犀签到领 **100 智点，第 7 天起每天 200**（灵犀专业版体验版专家 Pro/Max 模式，灵犀按任务选内置模型）
@@ -1271,7 +1277,7 @@
 - 内容：Workers AI 每天 10,000 Neurons 免费，按不同模型的计算消耗扣减。
 - 规则：每日 UTC 00:00 重置。Workers Free 超额报错。定价页列出的部分模型需 Workers Paid 或 AI Gateway 预付额度。
 - 链接：https://developers.cloudflare.com/workers-ai/
-- 状态：已验证（核验时间 2026-11-25T05:48:51Z）
+- 状态：待复核（核验时间 2026-11-25T05:48:51Z）
 
 ## Hugging Face Inference｜长期免费
 - 内容：Hugging Face 免费账户已无每月推理赠金；PRO 及团队每席月含 $2 计算额度
@@ -1295,7 +1301,7 @@
 - 内容：免费账户可同时运行 1 个基础 CPU Studio，官方定价页标为 Free、内存 16 GB。
 - 规则：免费档每次可运行 1 个 CPU Studio，每 4 小时需重启。Lightning AI 可能要求手机号以防滥用。切换到付费算力前请核对价格。
 - 链接：https://studio.lightning.ai/
-- 状态：已验证（核验时间 2026-11-24T07:59:42Z）
+- 状态：待复核（核验时间 2026-11-24T07:59:42Z）
 
 ## Rime｜限时活动
 - 内容：Rime STT 语音转文字限免至 11 月 19 日
@@ -1439,7 +1445,7 @@
 - 内容：新户试用 30 天，每天 100 万额度 Token
 - 规则：免绑卡。按 1 倍模型 gpt-oss-120b 折合 30 天 3000 万原始 Token，其他倍率依所选模型而变。每账号试用一次。
 - 链接：https://regolo.ai/pricing/
-- 状态：已验证（核验时间 2026-11-23T12:22:25Z）
+- 状态：待复核（核验时间 2026-11-23T12:22:25Z）
 
 ## 讯飞星辰 MaaS｜限时活动
 - 内容：讯飞星火 X2.6 注册礼 10 亿 Token，每账号按一份计
