@@ -252,11 +252,11 @@
       <description>长期低价 · 规则：仅缓存命中的输入可用此价，普通输入和输出另计（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>Kimi 开放平台：Kimi 文件内容抽取/存储接口限时免费，截止未公布</title>
-      <link>https://platform.kimi.com/docs/pricing/chat</link>
+      <title>Kimi 开放平台：Kimi 文件抽取和存储接口限时免费，单文件上限 100 MiB</title>
+      <link>https://platform.kimi.com/docs/api/files-upload</link>
       <guid isPermaLink="false">kimi-filefree</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-      <description>限时活动 · 规则：仅上传并抽取文档时，文件接口本身不收费；把抽取内容作为模型输入时仍按量计费。官方未公布限时结束日期。 · 截止 截止未公布（优惠以官方页面为准）</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <description>限时活动 · 规则：用开放平台 API Key 上传受支持文档并选 file-extract。组织默认 10 GiB，总量按存储计。抽取结果送入模型按输入 Token 计费。 · 截止 截止未公布（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>硅基流动：硅基流动模型目录中的免费模型按零价调用</title>
@@ -322,11 +322,11 @@
       <description>长期免费 · 规则：仅用于评估 Key。分钟限速按模型和端点区分。生产 Key 独立计费，部分新 Chat 模型在生产 Key 下仍有月限。（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>Kimi 开放平台：Kimi K3 系列重复请求前缀自动走缓存计费</title>
-      <link>https://platform.kimi.com/docs/pricing/chat</link>
+      <title>Kimi 开放平台：Kimi K3 与 K3.1 Pro 上下文缓存按百万 Token 计费</title>
+      <link>https://platform.kimi.com/docs/guide/context-caching</link>
       <guid isPermaLink="false">kimi-cache</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <description>长期低价 · 规则：默认缓存 5 分钟，命中输入不重复收取缓存写入费（优惠以官方页面为准）</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <description>长期低价 · 规则：同一组织重复前缀可复用，默认 5 分钟、可选 1 小时。以 K3 为例，每百万 Token 写入 ¥20 或 ¥40，命中 ¥2。（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>OpenRouter：OpenRouter :free 共池：50 次/天或 1,000 次/天，均为 20 次/分钟。高档比名义门槛 10 </title>
@@ -630,6 +630,13 @@
       <description>避雷 · 规则：Antigravity CLI 免费档极紧（社区口径~20 agent请求/天，单源低置信）；与 AI Pro 订阅不共享配额池；API 免费层（AI Studio 实查法）仍是可用主力（优惠以官方页面为准）</description>
     </item>
     <item>
+      <title>Qoder CN（阿里）：Qoder CN 每日 100 通用 Credits：试用期、个人付费订阅或有效会员卡可领</title>
+      <link>https://docs.qoder.cn/zh/events/100credits</link>
+      <guid isPermaLink="false">qoder-cn-daily-credits</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <description>长期活动 · 规则：11/19 10:00 起免费体验版及企业订阅不适用。每天北京时间 10:00 开放，Qoder CN 端内手领，每笔有效 30 天。（优惠以官方页面为准）</description>
+    </item>
+    <item>
       <title>Qoder 国际版：Qoder 国际版每日 100 Credits：仅限 Pro 试用和个人付费用户，免费账户已停领</title>
       <link>https://docs.qoder.com/zh/events/100credits</link>
       <guid isPermaLink="false">deep-qoder-daily-credits</guid>
@@ -833,11 +840,11 @@
       <description>长期免费 · 规则：订阅制（Plus $20 起）；免费党走国产替代（各家免费额度均可接 Codex CLI 兼容工具）（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>Trae：TRAE 国内免费档：每月登录500积分，新注册1500积分，每日签到100积分</title>
+      <title>Trae：TRAE 国内免费档：每月登录 500、新注册一次 1,500、每日签到 100 通用积分</title>
       <link>https://trae.cn</link>
       <guid isPermaLink="false">trae-free-tier</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
-      <description>长期免费 · 规则：月赠当月有效；注册与签到奖励31天有效。签到需手动完成；免费版不含会员模型专属补贴。（优惠以官方页面为准）</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <description>长期免费 · 规则：每月登录赠 500 积分，仅当前自然月有效。新注册赠 1,500 积分一次，每天手动签到 100 积分，两类各有效 31 个自然日。（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>小米 MiMo：小米 MiMo 中国大陆新客首次实名领 ¥5 API 赠金，40 天有效</title>
@@ -994,11 +1001,11 @@
       <description>折扣码 · 规则：经原链接下载、登录官方客户端，按新用户活动页领取。免费体验套餐不是Pro模型权益承诺，也不是开放API赠金；与签到活动分别查看，避免重复累计。（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>Trae 国内版：TRAE 新人合计2,500积分：经分享链接注册并登录桌面端，含邀请500＋新人福利2,000</title>
+      <title>Trae 国内版：TRAE 受邀新人合计 2,500 积分：注册 1,500＋当月登录 500＋邀请 500</title>
       <link>https://www.trae.cn/events/code-fission/QPBS8AX98ZQM?utm_source=copy_link&amp;utm_medium=code_fission</link>
       <guid isPermaLink="false">trae-code-fission</guid>
-      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
-      <description>折扣码 · 规则：须通过专属链接首次注册并登录TRAE桌面端；邀请人与新用户各得500积分。活动至2026-11-30 00:00（北京时间）；邀请奖励31天有效，月登录福利当月有效。 · 截止 2026-11-30T00:00:00+08:00（优惠以官方页面为准）</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <description>折扣码 · 规则：经邀请链接首次注册并登录 TRAE 桌面端，双方各得 500 积分，发放后 31 天有效。北京时间 11 月 30 日 00:00 截止。 · 截止 2026-11-30T00:00:00+08:00（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>智云新疆 AI Store：电信新疆 AI Store 注册送 200 积分券</title>
@@ -1386,11 +1393,11 @@
       <description>长期活动 · 规则：每天重置，未用积分不累积（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>华为果办 OfficeAce：OfficeAce免费体验：注册300积分，日登录50积分（当日有效），限时截止未公布</title>
+      <title>华为果办 OfficeAce：华为果办免费体验版：首次注册登录送 300 积分，每日登录送 50 积分</title>
       <link>https://activity.huaweicloud.com/officeace.html</link>
       <guid isPermaLink="false">officeace-daily-100</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
-      <description>限时活动 · 规则：官方免费个人体验版为注册300及日登录50；广告150/天属于高档付费套餐。预置模型、解析和工具共用积分；外接模型由其提供方单独计费，积分不作外部API余额。 · 截止 截止未公布（优惠以官方页面为准）</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <description>限时活动 · 规则：通过果办客户端或微信小程序首次注册登录领 300 积分，每日登录领 50 积分，当日有效。两项均限时，截止未公布；横幅的 150 积分/天取决于套餐。 · 截止 截止未公布（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>华为码道：华为码道 Skill 创新赛线索：参赛活动曾列每日 1000 积分，待复核活动资格与有效期</title>
@@ -1414,11 +1421,11 @@
       <description>限时活动 · 规则：限免至约 11-23；限 WorkBuddy 内指定模型（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>Rime：Rime 每月含 $50 语音模型用量，免费额度适用于 Rime 模型。</title>
+      <title>Rime：Rime 免费档每月 $50 语音用量，无需绑卡</title>
       <link>https://rime.ai</link>
       <guid isPermaLink="false">rime-monthly-50usd</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <description>长期活动 · 规则：未用额度不结转；免费额度用完可等下月续发。开通 Flex 并绑卡后，超额按用量付费。（优惠以官方页面为准）</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <description>长期活动 · 规则：Prism、Mist v3、Coda v2 与 Rime STT 共用额度，每月刷新，不结转。STT 跨套餐免费活动已于 11 月 19 日结束，免费档仍可用每月 $50 抵扣。（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>Drex：Drex：注册赠 $5，满一个月起每月再赠 $5</title>
@@ -1449,11 +1456,11 @@
       <description>长期活动 · 规则：同一账号的项目共用模型额度。（优惠以官方页面为准）</description>
     </item>
     <item>
-      <title>腾讯云 ADP：腾讯 ADP 体验版每月 15,000 PU，约 ¥15 资源面值</title>
+      <title>腾讯云 ADP：腾讯 ADP 体验版每月 15,000 PU，资源抵扣面值 ¥15</title>
       <link>https://adp.tencent.com/pricing/home</link>
       <guid isPermaLink="false">tencent-adp-15k</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
-      <description>长期活动 · 规则：腾讯云实名认证主账号需手动领取体验版；Auto模型可用，每月重置不累计，不含自定义模型或专属算力。（优惠以官方页面为准）</description>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+      <description>长期活动 · 规则：实名认证的腾讯云主账号首次开通 ADP 后，按系统引导手动领取体验版。每月 15,000 PU，重置不累计。可用 Auto 模型；不含自定义模型或专属算力。（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>ElevenLabs：ElevenLabs 免费档每月含 10,000 credits，可体验语音生成等功能。</title>
