@@ -637,6 +637,13 @@
       <description>长期活动 · 规则：11/19 10:00 起免费体验版及企业订阅不适用。每天北京时间 10:00 开放，Qoder CN 端内手领，每笔有效 30 天。（优惠以官方页面为准）</description>
     </item>
     <item>
+      <title>Qoder CN（阿里）：Qoder CN 新人任务礼：10 元天猫超市卡、18 元咖啡抵扣券</title>
+      <link>https://docs.qoder.cn/events/task-rewards</link>
+      <guid isPermaLink="false">qoder-cn-new-user-task-rewards</guid>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+      <description>限时活动 · 规则：仅 Qoder CN 个人版新用户，桌面端权益中心参与。猫超卡需完成 Word、Excel 插件任务。咖啡券需连续 3 天使用并消耗 Credits、完成 PPT 插件任务及创建自动化。 · 截止 2026-12-21T23:59:00+08:00（优惠以官方页面为准）</description>
+    </item>
+    <item>
       <title>Qoder 国际版：Qoder 国际版每日 100 Credits：仅限 Pro 试用和个人付费用户，免费账户已停领</title>
       <link>https://docs.qoder.com/zh/events/100credits</link>
       <guid isPermaLink="false">deep-qoder-daily-credits</guid>
@@ -775,6 +782,13 @@
       <guid isPermaLink="false">monkeycode-daily</guid>
       <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
       <description>注册赠送 · 规则：2026 年 11 月 11 日起，基础用户不再获每日自动额度。原有积分可继续使用，专业版与旗舰版在订阅期内的每日权益照旧。（优惠以官方页面为准）</description>
+    </item>
+    <item>
+      <title>MonkeyCode：MonkeyCode 好友邀请：每位新用户完成注册及激活后，邀请人得 5,000 积分</title>
+      <link>https://monkeycode-ai.com/?ic=01a18635-db7b-7dde-b76e-addc9a9b76f3</link>
+      <guid isPermaLink="false">monkeycode-referral</guid>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+      <description>邀请奖励 · 规则：好友通过分享链接完成注册和账号激活，邀请人每位得 5,000 积分。官方说明最多计 10 人，合计最高 50,000 积分。（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>Novita：Novita AI 云 free-to-start：130+ 模型（DeepSeek/Qwen/GLM 系）注册即用，新</title>
@@ -1615,6 +1629,13 @@
       <guid isPermaLink="false">electronhub-free-weekly</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
       <description>长期免费 · 规则：每周日 21:00 UTC（北京时间周一 05:00）刷新，5 请求/分钟；最多 20% 未用周额转入 Flex Wallet，上限约 $0.13。（优惠以官方页面为准）</description>
+    </item>
+    <item>
+      <title>ZCode：ZCode 周末包：单账号实测 GLM-5.3-Flash 卡面上限 3 亿</title>
+      <link>https://zcode.z.ai/</link>
+      <guid isPermaLink="false">zcode-weekend-3yi-1128</guid>
+      <pubDate>Sat, 28 Nov 2026 00:00:00 GMT</pubDate>
+      <description>限时活动 · 规则：桌面端「设置 → 模型设置 → Start Plan」查看。11 月 30 日 09:00（北京时间）使用到期。卡面未标单位，新领取资格、截止和日重置待核。 · 截止 2026-11-30T09:00:00+08:00（优惠以官方页面为准）</description>
     </item>
     <item>
       <title>智谱 BigModel：ZCode 周末包：已领账号实测5亿 GLM-5.3-Flash，11月23日09:00到期</title>

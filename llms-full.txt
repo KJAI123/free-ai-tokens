@@ -129,7 +129,7 @@
 - 内容：OpenRouter 当前有 10 个 :free 模型，共用免费调用池
 - 规则：:free 模型按账号共用调用池。基础档 50 次/天，高档 1,000 次/天，两档均为 20 次/分钟。累计购买 10 credits 是官方表格的名义门槛；考虑舍入和充值手续费，高档从低一个 credit 起算。BYOK 和豁免账号另有规则，实际限额以控制台为准。
 - 链接：https://openrouter.ai/models?max_price=0
-- 状态：已验证（核验时间 2026-11-23T11:31:08Z）
+- 状态：待复核（核验时间 2026-11-23T11:31:08Z）
 
 ## NVIDIA NIM｜长期免费
 - 内容：NVIDIA API Catalog 免费原型推理：按账号速率限流；Nemotron Lightning 普通与流式已实测
@@ -211,7 +211,7 @@
 - 内容：Kimi 文件抽取和存储接口限时免费，单文件上限 100 MiB
 - 规则：用开放平台 API Key 上传受支持文档并选 file-extract。组织默认 10 GiB，总量按存储计。抽取结果送入模型按输入 Token 计费。
 - 链接：https://platform.kimi.com/docs/api/files-upload
-- 状态：已验证（核验时间 2026-11-27T04:52:52Z）
+- 状态：待复核（核验时间 2026-11-27T04:52:52Z）
 
 ## 硅基流动｜长期免费
 - 内容：硅基流动模型目录中的免费模型按零价调用
@@ -269,7 +269,7 @@
 - 内容：Kimi K3 与 K3.1 Pro 上下文缓存按百万 Token 计费
 - 规则：同一组织重复前缀可复用，默认 5 分钟、可选 1 小时。以 K3 为例，每百万 Token 写入 ¥20 或 ¥40，命中 ¥2。
 - 链接：https://platform.kimi.com/docs/guide/context-caching
-- 状态：已验证（核验时间 2026-11-27T04:52:52Z）
+- 状态：待复核（核验时间 2026-11-27T04:52:52Z）
 
 ## OpenRouter｜price_low
 - 内容：OpenRouter :free 共池：50 次/天或 1,000 次/天，均为 20 次/分钟。高档比名义门槛 10 credits 低一个 credit 起算。
@@ -401,7 +401,7 @@
 - 内容：智谱 GLM Coding Plan 体验卡 2,000 积分，GLM-5.4、GLM-5.3、GLM-5.3-Flash 共用
 - 规则：须取得有效体验卡，用个人 Coding Plan 专用 Key 接入指定工具，如 ZCode、Claude Code 或 Codex。共池用完即止。折算仅为 GLM-5.3 情景。
 - 链接：https://docs.bigmodel.cn/cn/coding-plan/faq
-- 状态：已验证（核验时间 2026-11-27T08:56:07Z）
+- 状态：待复核（核验时间 2026-11-27T08:56:07Z）
 
 ## 智谱 BigModel｜套餐订阅
 - 内容：Coding Plan 五小时／每周积分：Lite 2,000／10,000，Pro 12,000／60,000，Max 28,000／140,000
@@ -535,6 +535,12 @@
 - 链接：https://docs.qoder.cn/zh/events/100credits
 - 状态：已验证（核验时间 2026-11-27T01:57:09Z）
 
+## Qoder CN（阿里）｜限时活动
+- 内容：Qoder CN 新人任务礼：10 元天猫超市卡、18 元咖啡抵扣券
+- 规则：仅 Qoder CN 个人版新用户，桌面端权益中心参与。猫超卡需完成 Word、Excel 插件任务。咖啡券需连续 3 天使用并消耗 Credits、完成 PPT 插件任务及创建自动化。
+- 链接：https://docs.qoder.cn/events/task-rewards
+- 状态：已验证（核验时间 2026-11-28T14:56:27+08:00）
+
 ## Qoder 国际版｜长期活动
 - 内容：Qoder 国际版每日 100 Credits：仅限 Pro 试用和个人付费用户，免费账户已停领
 - 规则：11/19 10:00（UTC+8）起仅限国际版 Pro 试用期或 Lite、Pro、Pro+、Ultra 个人付费订阅。每天 10:00 起端内手领 100 Credits，每笔有效 30 天。
@@ -655,6 +661,12 @@
 - 规则：2026 年 11 月 11 日起，基础用户不再获每日自动额度。原有积分可继续使用，专业版与旗舰版在订阅期内的每日权益照旧。
 - 链接：https://monkeycode-ai.com
 - 状态：已验证（核验时间 2026-11-28T00:52:21+08:00）
+
+## MonkeyCode｜邀请奖励
+- 内容：MonkeyCode 好友邀请：每位新用户完成注册及激活后，邀请人得 5,000 积分
+- 规则：好友通过分享链接完成注册和账号激活，邀请人每位得 5,000 积分。官方说明最多计 10 人，合计最高 50,000 积分。
+- 链接：https://monkeycode-ai.com/?ic=01a18635-db7b-7dde-b76e-addc9a9b76f3
+- 状态：已验证（核验时间 2026-11-28T13:37:04+08:00）
 
 ## Novita｜注册赠送
 - 内容：Novita AI 云 free-to-start：130+ 模型（DeepSeek/Qwen/GLM 系）注册即用，新用户赠送起步额度（数额以控制台为准）
@@ -1032,7 +1044,7 @@
 - 内容：OpenDesign Go：首月 $8，续费 $10/月，Coding Plan 月度用量最高 $220
 - 规则：月付首月 $8，之后 $10/月。Go 的 Coding Plan 月度用量最高 $220，按所选模型消耗；API 与客户端共用额度，不含 Top Models 额度。
 - 链接：https://go.open-design.ai/
-- 状态：已验证（核验时间 2026-11-27T16:34:23Z）
+- 状态：待复核（核验时间 2026-11-27T16:34:23Z）
 
 ## OpenDesign｜长期免费
 - 内容：OpenDesign 开源设计工作台：**Claude Design 的开源免费替代**（Apache 协议），本地优先；用你自己的 coding agent 生成原型/落地页/数据看板/Slides/HTML 视频，可接 Gemini CLI 免费额度实现零成本 AI 设计
@@ -1200,7 +1212,7 @@
 - 内容：OpenRouter 免费模型 ERNIE 5.5 Flash Preview，共享每日 50 次
 - 规则：与其他 OpenRouter 免费模型共池，模型可随目录调整。
 - 链接：https://openrouter.ai/baidu/ernie-5.5-flash-preview:free
-- 状态：已验证（核验时间 2026-11-23T11:31:08Z）
+- 状态：待复核（核验时间 2026-11-23T11:31:08Z）
 
 ## 美团 LongCat｜限时活动
 - 内容：**LongCat 2.5 自 11-09 起限免两周**（WorkBuddy 内 Hy4 flash 可用；其他模型及腾讯云 TokenHub 接口不含在本次限免）
@@ -1302,7 +1314,7 @@
 - 内容：Rovo Dev Free 每人每站每月 350 积分
 - 规则：需加入已启用 Rovo Dev Free 的付费 Jira 站点。积分用完即暂停，下一计费周期重置。
 - 链接：https://support.atlassian.com/rovo/docs/use-rovo-dev-cli/
-- 状态：已验证（核验时间 2026-11-25T03:20:07+08:00）
+- 状态：待复核（核验时间 2026-11-25T03:20:07+08:00）
 
 ## Lightning AI Studio｜长期免费
 - 内容：免费账户可同时运行 1 个基础 CPU Studio，官方定价页标为 Free、内存 16 GB。
@@ -1320,7 +1332,7 @@
 - 内容：七牛云提供 Kimi-K3 Free 体验模型
 - 规则：使用七牛云模型广场和 API Key，限额、可用时间和稳定性以官方为准
 - 链接：https://www.qiniu.com/ai/models
-- 状态：已验证（核验时间 2026-11-16T17:58:50Z）
+- 状态：待复核（核验时间 2026-11-16T17:58:50Z）
 
 ## Google Antigravity CLI｜长期免费
 - 内容：Google Antigravity CLI提供0美元/月免费档，模型资格与限流看套餐
@@ -1375,6 +1387,12 @@
 - 规则：每周日 21:00 UTC（北京时间周一 05:00）刷新，5 请求/分钟；最多 20% 未用周额转入 Flex Wallet，上限约 $0.13。
 - 链接：https://www.electronhub.ai/pricing
 - 状态：待复核（核验时间 2026-11-19T16:15:17Z）
+
+## ZCode｜限时活动
+- 内容：ZCode 周末包：单账号实测 GLM-5.3-Flash 卡面上限 3 亿
+- 规则：桌面端「设置 → 模型设置 → Start Plan」查看。11 月 30 日 09:00（北京时间）使用到期。卡面未标单位，新领取资格、截止和日重置待核。
+- 链接：https://zcode.z.ai/
+- 状态：已验证（核验时间 2026-11-28T09:17:05+08:00）
 
 ## 智谱 BigModel｜限时活动
 - 内容：ZCode 周末包：已领账号实测5亿 GLM-5.3-Flash，11月23日09:00到期；新领取待核
